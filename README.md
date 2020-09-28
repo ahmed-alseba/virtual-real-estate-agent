@@ -1,1 +1,2 @@
 # virtual-real-estate-agent
+A socket program that simulates the selling process of houses through virtual agents using TCP and UDP sockets in a networked client/server architecture. The program supports several agents, buyers and sellers. The agents facilitate the sale according to the requirement of the buyer and the minimum selling price of the seller. All modules run concurrently and each can be run on a seperate computer or on the same computer for testing purposes.
